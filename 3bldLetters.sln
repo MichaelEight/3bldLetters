@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3bldLetters", "3bldLetters\3bldLetters.csproj", "{D77E41FD-A66A-4713-999E-6065F81F697E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{BB1AD6AC-B76F-4344-B987-ADFF0296EF41}"
+	ProjectSection(SolutionItems) = preProject
+		3bldLetters\WordsDataBase.xlsx = 3bldLetters\WordsDataBase.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D77E41FD-A66A-4713-999E-6065F81F697E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77E41FD-A66A-4713-999E-6065F81F697E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77E41FD-A66A-4713-999E-6065F81F697E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77E41FD-A66A-4713-999E-6065F81F697E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB7BF183-08E7-4FAD-8615-175F9DA2B930}
+	EndGlobalSection
+EndGlobal
