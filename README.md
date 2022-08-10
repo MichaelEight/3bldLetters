@@ -13,6 +13,7 @@
 - Supports shortcuts to move around (arrows + Enter)
 
 ## Coming soon
+- Edit name of memo places
 - Display algorithm for each pair (setup for OP, commutator for 3-style)
 - Put (or generate) scramble and get full memo with solution
 
