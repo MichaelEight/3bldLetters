@@ -7,6 +7,8 @@
 - Press button 'Next' or Enter on keyboard to change letters into words
 - You can edit words in the WordsDatabase.xlsx (open it as an Excel file). **Note:** only words between B2 and Y25 will be loaded
 
+**NOTE:** Default WordsDatabase is **mostly empty**! You need to **fill it yourself**, for your own needs. Prepare them and put into the Excel file.
+
 ## Features
 - Converting letter pairs into premade words
 - Supports up to 5bld (because, you know, 5 input boxes)
